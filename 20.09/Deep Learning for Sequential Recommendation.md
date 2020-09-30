@@ -9,9 +9,15 @@
 
 ## Sequential Recommender Systems: Challenges, Progress and Prospects
 
+摘要
+
+The emerging topic of sequential recommender systems (SRSs) has attracted increasing attention
+in recent years. Different from the conventional recommender systems (RSs) including collaborative filtering and content-based filtering, SRSs try to understand and model the sequential user behaviors, the interactions between users and items, and the evolution of users’ preferences and item popularity over time. SRSs involve the above aspects for more precise characterization of user contexts, intent and goals, and item consumption trend, leading to more accurate, customized and dynamic recommendations. In this paper, we provide a systematic review on SRSs. We first present the characteristics of SRSs, and then summarize and categorize the key challenges in this research area, followed by the corresponding research progress consisting of the most recent and representative developments on this topic. Finally, we discuss the important research directions in this vibrant area.
+
 本篇主要是以数据特点来对序列推荐进行分类的
 
 动机：
+
 - 序列推荐的用户项目交互具有顺序依赖性
 - 用户的偏好和商品的受欢迎程度随着时间的流逝动态变化
 - 用户项目交互通常在特定顺序的上下文中发生
@@ -21,6 +27,7 @@
 ![挑战](images/shujutezheng.png)
 
 数据特征和挑战：
+
 - 处理长用户项目交互序列
 
   学习高阶序列依赖
@@ -52,13 +59,22 @@
 <!-- <img src="./images/fenlei.png" width=100%> -->
 
 未来的研究方向：
+
 - 上下文感知的序列推荐系统
 - 社交感知的序列推荐系统
 - 交互式的序列推荐系统
 - 跨域的序列推荐系统
 
+结论：
+
+Recommender systems (RS) is one of the most direct and practical applications of artificial intelligence in our daily lives. Sequential recommender systems (SRSs) have been at the core of the RS field in the past three to five years as they provide more intelligent and favorable recommendations to
+satisfy our daily requirements. It is our hope that this summary provides an overview of the challenges and the recent progress as well as some future directions in SRSs to the RS research community.
 
 ## Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations
+
+### 摘要
+
+In the field of sequential recommendation, deep learning (DL)-based methods have received a lot of attention in the past few years and surpassed traditional models such as Markov chain-based and factorization-based ones. However, there is little systematic study on DL-based methods, especially regarding to how to design an effective DL model for sequential recommendation. In this view, this survey focuses on DL-based sequential recommender systems by taking the aforementioned issues into consideration. Specifically, we illustrate the concept of sequential recommendation, propose a categorization of existing algorithms in terms of three types of behavioral sequence, summarize the key factors affecting the performance of DL-based models, and conduct corresponding evaluations to demonstrate the effects of these factors. We conclude this survey by systematically outlining future directions and challenges in this field.
 
 定义了行为对象和行为类型以后，就决定了序列行为的分类了。以前我只关注了一种行为对象和一种行为目标，即用户和商品具有交互关系，这样其实是限制了想象力，可能是我看的论文都这样吧。行为对象可以有图片、视频、文字时间等许多内容，当然行为类型也有很多内容，比如浏览，停留时间，加入购物车等一系列的操作。
 
@@ -125,6 +141,19 @@ Interaction-based behavior sequence
 - Sequential recommendation for specific domains
 
   具体需求具体对待
+
+### 结论
+
+The study systematically investigated the DL-based sequential recommendation. Specifically, we
+designed a novel taxonomy for investigating the sequential recommendation tasks in terms of the
+three types of behavior sequences: experienced-based, transaction-based and interaction-based.
+Based on it, we surveyed and explored a considerable amount of representative DL-based algorithms
+in the sequential recommendation, with the aim of a better understanding on whether sequential
+recommendation tasks have been sufficiently or insufficiently studied. Thirdly, for better guiding the
+development of DL-based sequential recommender systems, we thoroughly identified the possible
+influential factors that impact the performance of DL-based models from the four perspectives with
+respect to learning a better model: model input, data pre-processing, model structure and model
+training. We further comprehensively evaluated their impacts via well-designed evaluations, which
 
 ### 感悟
 

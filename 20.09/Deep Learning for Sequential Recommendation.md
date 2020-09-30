@@ -68,7 +68,7 @@
 
 总体的序列推荐任务表示如下：
 
-![序列推荐](images/sequential.png)
+![序列推荐](images/sequential.PNG)
 
 按照行为序列又分为了三类：
 

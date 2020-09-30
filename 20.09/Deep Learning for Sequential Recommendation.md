@@ -84,7 +84,7 @@ In the field of sequential recommendation, deep learning (DL)-based methods have
 
 总体的序列推荐任务表示如下：
 
-![序列推荐](images/sequential.PNG)
+![序列推荐](images/sequential.png)
 
 按照行为序列又分为了三类：
 

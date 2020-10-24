@@ -12,3 +12,8 @@
 
 - Liu, Feng, Weiwen Liu, Xutao Li, and Yunming Ye. “Inter-Sequence Enhanced Framework for Personalized Sequential Recommendation.” ArXiv:2004.12118 [Cs], April 28, 2020. http://arxiv.org/abs/2004.12118.
 
+## 20.10
+
+- Qin, Jiarui, Kan Ren, Yuchen Fang, Weinan Zhang, and Yong Yu. “Sequential Recommendation with Dual Side Neighbor-Based Collaborative Relation Modeling.” Proceedings of the 13th International Conference on Web Search and Data Mining, January 20, 2020, 465–73. https://doi.org/10.1145/3336191.3371842.
+
+https://github.com/qinjr/SCoRe

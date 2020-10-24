@@ -16,4 +16,4 @@
 
 - Qin, Jiarui, Kan Ren, Yuchen Fang, Weinan Zhang, and Yong Yu. “Sequential Recommendation with Dual Side Neighbor-Based Collaborative Relation Modeling.” Proceedings of the 13th International Conference on Web Search and Data Mining, January 20, 2020, 465–73. https://doi.org/10.1145/3336191.3371842.
 
-https://github.com/qinjr/SCoRe
+  https://github.com/qinjr/SCoRe

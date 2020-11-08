@@ -17,3 +17,7 @@
 - Qin, Jiarui, Kan Ren, Yuchen Fang, Weinan Zhang, and Yong Yu. “Sequential Recommendation with Dual Side Neighbor-Based Collaborative Relation Modeling.” Proceedings of the 13th International Conference on Web Search and Data Mining, January 20, 2020, 465–73. https://doi.org/10.1145/3336191.3371842.
 
   https://github.com/qinjr/SCoRe
+
+# 20.11
+
+- Huang, Bo, Ye Bi, Zhenyu Wu, Jianming Wang, and Jing Xiao. “UBER-GNN: A User-Based Embeddings Recommendation Based on Graph Neural Networks.” ArXiv:2008.02546 [Cs], August 6, 2020. http://arxiv.org/abs/2008.02546.

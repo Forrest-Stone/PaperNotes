@@ -24,7 +24,7 @@
 			"",
 			"@Author: Forrest Stone",
 			"@Email: https://github.com/Forrest-Stone",
-			"Date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+			"Date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE"
 		],
 		"description": "init the md document!"
 	}

@@ -21,3 +21,5 @@
 # 20.11
 
 - Huang, Bo, Ye Bi, Zhenyu Wu, Jianming Wang, and Jing Xiao. “UBER-GNN: A User-Based Embeddings Recommendation Based on Graph Neural Networks.” ArXiv:2008.02546 [Cs], August 6, 2020. http://arxiv.org/abs/2008.02546.
+
+- Chen, Xu, Hongteng Xu, Yongfeng Zhang, Jiaxi Tang, Yixin Cao, Zheng Qin, and Hongyuan Zha. “Sequential Recommendation with User Memory Networks.” In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining - WSDM ’18, 108–16. Marina Del Rey, CA, USA: ACM Press, 2018. https://doi.org/10.1145/3159652.3159668.

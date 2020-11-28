@@ -12,6 +12,24 @@ chains, our method achieves significantly and consistently better performance on
 
 ## 贡献
 
+- 以前的方法是没有考虑到每个历史数据对预测的贡献，然后考虑使用了记忆网络还是内存网络来作为辅助。然后还设计了两种级别的方法来建模历史记录数据（item-level 和 feature-level）
+
+![asas](./images/Memory.png)
+
+- 还是第一次将记忆网络应用到序列推荐上的。其实主要还是类似于注意力的玩意
+
+## 模型
+
+### RUM: RECOMMENDATION WITH USER MEMORY NETWORKS
+
+主要是利用一个内存矩阵来获得用户的个性化嵌入，然后在和不受影响的内在偏好的自由向量组合得到整体的嵌入
+
+![item-feature](./images/rum.png)
+
+
+## 感想
+
+- 一直么看这篇论文，最近也比较忙看的比较粗糙。还以为是自己提出的新idea，后来发现不是，也是借鉴别人的，不过还挺简单的。
 
 ## 结论
 

@@ -24,8 +24,11 @@
 			"# Conclusion",
 			"",
 			"@Author: Forrest Stone",
+			"",
 			"@Email: ysbrilliant@163.com",
-			"@Github: https://github.com/Forrest-Stone",
+			"",
+			"@Github: https://github.com/Forrest-Stone  ",
+			"",
 			"@Date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_DAY_NAME $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND"
 		],
 		"description": "init the md document!"

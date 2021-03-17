@@ -32,3 +32,5 @@
 - Yuan, Fajie, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, and Yilin Xiong. “Future Data Helps Training: Modeling Future Contexts for Session-Based Recommendation.” In Proceedings of The Web Conference 2020, 303–13. Taipei Taiwan: ACM, 2020. https://doi.org/10.1145/3366423.3380116.
 
   https://github.com/fajieyuan/grec
+
+- Ying, Haochao, Fuzhen Zhuang, Fuzheng Zhang, Yanchi Liu, Guandong Xu, Xing Xie, Hui Xiong, and Jian Wu. “Sequential Recommender System Based on Hierarchical Attention Networks.” In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, 3926–32. Stockholm, Sweden: International Joint Conferences on Artificial Intelligence Organization, 2018. https://doi.org/10.24963/ijcai.2018/546.

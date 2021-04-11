@@ -34,3 +34,8 @@
   https://github.com/fajieyuan/grec
 
 - Ying, Haochao, Fuzhen Zhuang, Fuzheng Zhang, Yanchi Liu, Guandong Xu, Xing Xie, Hui Xiong, and Jian Wu. “Sequential Recommender System Based on Hierarchical Attention Networks.” In Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, 3926–32. Stockholm, Sweden: International Joint Conferences on Artificial Intelligence Organization, 2018. https://doi.org/10.24963/ijcai.2018/546.
+
+
+## 21.04
+
+- Choi, M., Lee, J., Shim, H., & Lee, J. (2021). Session-aware Linear Item-Item Models for Session-based Recommendation. arXiv preprint arXiv:2103.16104. https://arxiv.org/pdf/2103.16104.pdf

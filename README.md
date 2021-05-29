@@ -39,3 +39,7 @@
 ## 21.04
 
 - Choi, M., Lee, J., Shim, H., & Lee, J. (2021). Session-aware Linear Item-Item Models for Session-based Recommendation. arXiv preprint arXiv:2103.16104. https://arxiv.org/pdf/2103.16104.pdf
+
+- Wang, Ziyang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, and Minghui Qiu. “Global Context Enhanced Graph Neural Networks for Session-Based Recommendation.” In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 169–78. Virtual Event China: ACM, 2020. https://doi.org/10.1145/3397271.3401142.
+
+  https://github.com/CCIIPLab/GCE-GNN

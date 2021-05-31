@@ -43,3 +43,10 @@
 - Wang, Ziyang, Wei Wei, Gao Cong, Xiao-Li Li, Xian-Ling Mao, and Minghui Qiu. “Global Context Enhanced Graph Neural Networks for Session-Based Recommendation.” In Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 169–78. Virtual Event China: ACM, 2020. https://doi.org/10.1145/3397271.3401142.
 
   https://github.com/CCIIPLab/GCE-GNN
+
+
+## 21.05
+
+- Chen, Tianwen, and Raymond Chi-Wing Wong. “Handling Information Loss of Graph Neural Networks for Session-Based Recommendation.” In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 1172–80. Virtual Event CA USA: ACM, 2020. https://doi.org/10.1145/3394486.3403170.
+
+  https://github.com/twchen/lessr

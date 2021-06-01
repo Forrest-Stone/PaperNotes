@@ -53,3 +53,8 @@
 
 - Ding, Yujuan, Yunshan Ma, Wai Keung Wong, and Tat-Seng Chua. “Leveraging Two Types of Global Graph for Sequential Fashion Recommendation.” ArXiv:2105.07585 [Cs], May 17, 2021. http://arxiv.org/abs/2105.07585.
 
+
+## 21.06
+
+- Wang, Shoujin, Liang Hu, Yan Wang, Xiangnan He, Quan Z Sheng, Mehmet Orgun, Longbing Cao, Francesco Ricci, and Philip S Yu. “Graph Learning Based Recommender Systems: A Review,” n.d., 10.
+

@@ -50,3 +50,6 @@
 - Chen, Tianwen, and Raymond Chi-Wing Wong. “Handling Information Loss of Graph Neural Networks for Session-Based Recommendation.” In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, 1172–80. Virtual Event CA USA: ACM, 2020. https://doi.org/10.1145/3394486.3403170.
 
   https://github.com/twchen/lessr
+
+- Ding, Yujuan, Yunshan Ma, Wai Keung Wong, and Tat-Seng Chua. “Leveraging Two Types of Global Graph for Sequential Fashion Recommendation.” ArXiv:2105.07585 [Cs], May 17, 2021. http://arxiv.org/abs/2105.07585.
+

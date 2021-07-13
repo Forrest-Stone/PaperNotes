@@ -58,3 +58,12 @@
 
 - Wang, Shoujin, Liang Hu, Yan Wang, Xiangnan He, Quan Z Sheng, Mehmet Orgun, Longbing Cao, Francesco Ricci, and Philip S Yu. “Graph Learning Based Recommender Systems: A Review,” n.d., 10.
 
+
+## 21.07
+
+- Yu, Zeping, Jianxun Lian, Ahmad Mahmoody, Gongshen Liu, and Xing Xie. “Adaptive User Modeling with Long and Short-Term Preferences for Personalized Recommendation.” In Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, 4213–19. Macao, China: International Joint Conferences on Artificial Intelligence Organization, 2019. https://doi.org/10.24963/ijcai.2019/585.
+
+  https://github.com/zepingyu0512/sli_rec
+
+- Chang, Jianxin, Chen Gao, Yu Zheng, Yiqun Hui, Yanan Niu, Yang Song, Depeng Jin, and Yong Li. “Sequential Recommendation with Graph Neural Networks.” ArXiv:2106.14226 [Cs], June 27, 2021. http://arxiv.org/abs/2106.14226.
+

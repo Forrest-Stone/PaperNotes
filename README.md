@@ -67,3 +67,4 @@
 
 - Chang, Jianxin, Chen Gao, Yu Zheng, Yiqun Hui, Yanan Niu, Yang Song, Depeng Jin, and Yong Li. “Sequential Recommendation with Graph Neural Networks.” ArXiv:2106.14226 [Cs], June 27, 2021. http://arxiv.org/abs/2106.14226.
 
+- Wu, Le, Xiangnan He, Xiang Wang, Kun Zhang, and Meng Wang. “A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation.” ArXiv:2104.13030 [Cs], April 27, 2021. http://arxiv.org/abs/2104.13030.

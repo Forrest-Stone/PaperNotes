@@ -72,3 +72,10 @@
 - Hu, Yang, Haoxuan You, Zhecan Wang, Zhicheng Wang, Erjin Zhou, and Yue Gao. “Graph-MLP: Node Classification without Message Passing in Graph.” ArXiv:2106.04051 [Cs], June 7, 2021. http://arxiv.org/abs/2106.04051.
 
   https://github.com/yanghu819/Graph-MLP
+
+
+## 21.08
+
+- Hamilton, William L., Rex Ying, and Jure Leskovec. “Inductive Representation Learning on Large Graphs.” ArXiv:1706.02216 [Cs, Stat], September 10, 2018. http://arxiv.org/abs/1706.02216.
+
+  http://snap.stanford.edu/graphsage/

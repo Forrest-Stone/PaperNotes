@@ -79,3 +79,7 @@
 - Hamilton, William L., Rex Ying, and Jure Leskovec. “Inductive Representation Learning on Large Graphs.” ArXiv:1706.02216 [Cs, Stat], September 10, 2018. http://arxiv.org/abs/1706.02216.
 
   http://snap.stanford.edu/graphsage/
+
+- Liu, Siyi, Chen Gao, Yihong Chen, Depeng Jin, and Yong Li. “Learnable Embedding Sizes for Recommender Systems.” ArXiv:2101.07577 [Cs], March 11, 2021. http://arxiv.org/abs/2101.07577.
+
+  https://github.com/ssui-liu/learnable-embed-sizes-for-RecSys

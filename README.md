@@ -83,3 +83,7 @@
 - Liu, Siyi, Chen Gao, Yihong Chen, Depeng Jin, and Yong Li. “Learnable Embedding Sizes for Recommender Systems.” ArXiv:2101.07577 [Cs], March 11, 2021. http://arxiv.org/abs/2101.07577.
 
   https://github.com/ssui-liu/learnable-embed-sizes-for-RecSys
+
+- Wu, Felix, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, and Kilian Q. Weinberger. “Simplifying Graph Convolutional Networks.” ArXiv:1902.07153 [Cs, Stat], June 20, 2019. http://arxiv.org/abs/1902.07153.
+
+  https://github.com/Tiiiger/SGC

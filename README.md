@@ -2,6 +2,11 @@
 
 不断更新阅读的论文，简单记录一下
 
+## 21.09
+
+- Pang, Yitong, Lingfei Wu, Qi Shen, Yiming Zhang, Zhihua Wei, Fangli Xu, Ethan Chang, and Bo Long. “Heterogeneous Global Graph Neural Networks for Personalized Session-Based Recommendation.” ArXiv:2107.03813 [Cs], July 8, 2021. http://arxiv.org/abs/2107.03813.
+
+
 ## 21.08
 
 - Hamilton, William L., Rex Ying, and Jure Leskovec. “Inductive Representation Learning on Large Graphs.” ArXiv:1706.02216 [Cs, Stat], September 10, 2018. http://arxiv.org/abs/1706.02216.

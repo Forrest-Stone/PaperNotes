@@ -6,6 +6,8 @@
 
 - Pang, Yitong, Lingfei Wu, Qi Shen, Yiming Zhang, Zhihua Wei, Fangli Xu, Ethan Chang, and Bo Long. “Heterogeneous Global Graph Neural Networks for Personalized Session-Based Recommendation.” ArXiv:2107.03813 [Cs], July 8, 2021. http://arxiv.org/abs/2107.03813.
 
+- Qiu, Ruihong, Zi Huang, Jingjing Li, and Hongzhi Yin. “Exploiting Cross-Session Information for Session-Based Recommendation with Graph Neural Networks.” ACM Transactions on Information Systems 38, no. 3 (June 26, 2020): 1–23. https://doi.org/10.1145/3382764.
+
 
 ## 21.08
 

@@ -8,6 +8,8 @@
 
 - Qiu, Ruihong, Zi Huang, Jingjing Li, and Hongzhi Yin. “Exploiting Cross-Session Information for Session-Based Recommendation with Graph Neural Networks.” ACM Transactions on Information Systems 38, no. 3 (June 26, 2020): 1–23. https://doi.org/10.1145/3382764.
 
+- Qiu, Ruihong, Zi Huang, Tong Chen, and Hongzhi Yin. “Exploiting Positional Information for Session-Based Recommendation.” ArXiv:2107.00846 [Cs], July 9, 2021. https://doi.org/10.1145/3473339.
+
 
 ## 21.08
 

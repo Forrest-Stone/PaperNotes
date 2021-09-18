@@ -69,6 +69,9 @@
 
   https://github.com/CCIIPLab/GCE-GNN
 
+- Ying, Rex, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, and Jure Leskovec. “Hierarchical Graph Representation Learning with Differentiable Pooling.” ArXiv:1806.08804 [Cs, Stat], February 20, 2019. http://arxiv.org/abs/1806.08804.
+
+  https://github.com/RexYing/diffpool
 
 ## 21.03
 

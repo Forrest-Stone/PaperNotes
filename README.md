@@ -10,6 +10,10 @@
 
 - Qiu, Ruihong, Zi Huang, Tong Chen, and Hongzhi Yin. “Exploiting Positional Information for Session-Based Recommendation.” ArXiv:2107.00846 [Cs], July 9, 2021. https://doi.org/10.1145/3473339.
 
+- Wang, Wen, Wei Zhang, Shukai Liu, Qi Liu, Bo Zhang, Leyu Lin, and Hongyuan Zha. “Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction.” ArXiv:2002.07993 [Cs], April 8, 2021. http://arxiv.org/abs/2002.07993.
+
+  https://github.com/Autumn945/MGNN-SPred
+
 
 ## 21.08
 

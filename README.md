@@ -2,6 +2,11 @@
 
 不断更新阅读的论文，简单记录一下
 
+## 21.10
+
+- Gao, Chen, Yu Zheng, Nian Li, Yinfeng Li, Yingrong Qin, Jinghua Piao, Yuhan Quan, et al. “Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions.” ArXiv:2109.12843 [Cs], September 27, 2021. http://arxiv.org/abs/2109.12843.
+
+
 ## 21.09
 
 - Pang, Yitong, Lingfei Wu, Qi Shen, Yiming Zhang, Zhihua Wei, Fangli Xu, Ethan Chang, and Bo Long. “Heterogeneous Global Graph Neural Networks for Personalized Session-Based Recommendation.” ArXiv:2107.03813 [Cs], July 8, 2021. http://arxiv.org/abs/2107.03813.
